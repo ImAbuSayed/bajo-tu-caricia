@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-caricia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bajo tu caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-caricia/) |
+| **Get License** | [Official Music Licensing for Bajo tu caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-caricia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo tu caricia se detiene el tiempo
+> Siento tu latido, sigo el movimiento
+> Baby, tú me llevas a otro firmamento
+> Déjame llevarte, sabes que no miento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
