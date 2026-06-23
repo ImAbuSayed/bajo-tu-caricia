@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu caricia
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu caricia** (bajo-tu-caricia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:52:46.516742 | `v1` | `2e7cf3dbbc3c0ba2011dee1ec674ba6e0ccd0ec754e04ea64ffa0676f627b272` | `1eb0a26cd4ebbaf3d70ea3f8de8d7264e5a0980325528ddce58a5fe9f4ae915a` | `2026-06-23_bajo-tu-caricia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
